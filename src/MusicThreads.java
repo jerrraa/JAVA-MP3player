@@ -8,6 +8,8 @@ public class MusicThreads extends Thread {
     private Player player;
     private int slider = 0;
     private int timer = 0;
+
+
     public MusicThreads(String filename) {
         this.filename = filename;
     }
