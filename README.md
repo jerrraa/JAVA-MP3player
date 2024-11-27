@@ -1,4 +1,4 @@
- Welcome! This is a MP3 audio player developed in JAVA. It's a small software with simple functions and a straight forward design. It allows you to select multiple MP3. files and skip or forward while you play the songs you desire.
+ Welcome! This is a MP3 player developed in JAVA. It's a small software with simple functions and a straight forward design. It allows you to select multiple MP3. files and skip or forward while you play the songs you desire.
  
  
  How to clone this respository:
