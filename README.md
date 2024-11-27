@@ -3,7 +3,7 @@
  
  How to clone this respository:
     
-    To get started with the project, clone the repository following this command below:
+    To get started with the project, clone the repository executing this command below:
     
     git clone https://github.com/jerrraa/JAVA-audioplayer.git
 
